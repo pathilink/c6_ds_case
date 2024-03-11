@@ -2,7 +2,7 @@
 
 # C6 Bank Data Science Case
 
-![Status Badge](https://img.shields.io/static/v1?label=STATUS&message=INCOMPLETE&color=eed202)
+![Status Badge](https://img.shields.io/static/v1?label=STATUS&message=COMPLETE&color=93D976)
 
 ## Objective
 
